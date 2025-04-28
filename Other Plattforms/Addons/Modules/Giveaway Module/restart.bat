@@ -1,6 +1,6 @@
 @echo off
-echo Starting Bot...
+echo Starting Giveaway Bot...
 :main
-Discord-Bot.py
+Giveaway_Bot.py
 echo Bot crashed reconnecting... ;3
 goto main

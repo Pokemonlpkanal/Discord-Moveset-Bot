@@ -1,0 +1,1 @@
+pip install discord.py[voice] youtube_dl PyGithub PyNaCL twitch-python pytube prsaw praw pandas googletrans==3.1.0a0 --upgrade

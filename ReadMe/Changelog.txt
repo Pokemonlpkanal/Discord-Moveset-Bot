@@ -1,38 +1,33 @@
-Changelog from 09/21/2020
+## Changelog ##
 
-What's New
+## What's New ##
 
-- added Uptime Feature ✔️
-- added Permission Error Handler ✔️
-- added Auto-Error Handler ✔️
-- added Guild Join Event ✔️
-- added Slowmode Feature ✔️
-- added Search Feature ✔️
-- added DM Feature ✔️
-- added new Folders & Files to certain Functions ✔️
-- another round of small adjustments for better user experience 💯 ✔️
+- added Season Modules
+- added System Checks for Seasons
+- added some Secrets
+- added some Future Content
+- added WIP Moveset Overhaul Tool
 
-Changes
+## Changes ##
 
-- rewrote and added a more userfriendly Quality of UI for End User ✔️
-- Bot will now respond to Errors on Discord ✔️
-- rewrote Guessing Game (Hopefully this works now if not it will be removed in next Release) ✔️
-- changed Version number from 3.1 to 3.5 (Latest) ✔️
-- Updated Installer + Updater Bat-File with new Requirements ✔️
+- changed Version number from 7.6 to 8.0 (Latest) 
 
-Hotfixes
+## Hotfixes ##
 
-- fixed latest Version crash caused by a mistake  ✔️
-- removed some Stuff that was not working correctly ✔️
-- fixed some Displaybugs that are accoured randomly | should now be solved! ✔️
-- fixed some Permission bugs who users could execute commands without the required Role ✔️
-- fixed RunTime Error that accoured randomly ✔️
+- fixed some rare crashes
 
-Note
+## Notes ##
 
-- On Code there a some Placeholder please insert there the correct ID from your Server /Role 
+- On Code there a some Placeholders please insert there the correct ID from your Server /Role /ID !
+-  For Python use either Version 3.9 or 3.10 ( 3.11 and further is not Compatible or Supported either)
 
-Bot Version
+## Open Issues ##
 
-- The latest Version is 3.5 if you are still on Version 3.1 or lower its really Important for you to Update to get some weird bugs fixed!
+- Spotify Integration is still broken
+
+- Giveaway Module can break at some point
+
+## Bot Version ##
+
+- The latest Version is 8.0 if you are still on Version 7.6 or lower its really Important for you to Update to get some weird bugs fixed!
 - Don't forget to Update your Dependencies via Updater.bat File ! ( Otherwise you will get errors while running the Bot!)
